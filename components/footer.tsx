@@ -155,7 +155,7 @@ export default function Footer(): ReactElement {
 							'absolute bottom-20 left-[-63.17%] h-[1005px] w-[1960px] 2xl:left-[-40%] 3xl:left-[-20%] 4xl:left-[-10%]'
 						}>
 						<Image
-							src={'/bigLeftCloud.png?v=2'}
+							src={'/bigLeftCloud.png'}
 							alt={''}
 							quality={90}
 							width={1960}
@@ -167,7 +167,7 @@ export default function Footer(): ReactElement {
 							'absolute bottom-20 right-[-51.24%] h-[993px] w-[2024px] 2xl:right-[-30%] 3xl:right-[-20%] 4xl:right-[-10%]'
 						}>
 						<Image
-							src={'/bigRightCloud.png?v=2'}
+							src={'/bigRightCloud.png'}
 							alt={''}
 							quality={90}
 							width={2024}
